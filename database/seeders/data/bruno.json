@@ -1,0 +1,18 @@
+{
+  "ideas_user": [
+    {
+      "title": "Platão e a educação sem fraqueza: o mundo odeia a fraqueza, Deus se revela nela",
+      "notes": "Platão quer uma vida idealizada para os guardiões, formada por narrativas que eliminam qualquer fraqueza humana. As narrativas dos deuses eram mesmo vergonhosas, mas tirar a fraqueza da formação reduz a humanidade. A cruz é o oposto: Deus se faz fraco para nos tornar fortes nEle. Jesus chora pela morte do amigo, sua ansioso no Getsêmani. O poder de Deus se aperfeiçoa na fraqueza. O evangelho convida a reconhecer a própria fraqueza e confiar na força de Deus.",
+      "source": "Platão, República, Livros II–III",
+      "date": "2026-10-11",
+      "status": "roteirizado"
+    }
+  ],
+  "rounds": [
+    {"key": "platao", "scope": "fraqueza / Platão", "date": "2026-10-11", "summary": "Rodada de 11/10/2026, recorte \"fraqueza / Platão\". Views conferidas na busca do YouTube nesse dia; TikTok e Instagram não foram verificados nesta rodada. Do momento: nenhuma notícia dos últimos 14 dias encaixou com segurança. Ganchos sazonais: Novembro Azul (saúde do homem) começa em 3 semanas e conversa direto com \"homem não chora\"."}
+  ],
+  "ideas_ai": [
+    {"round": "platao", "title": "\"Homem não chora\"", "category": "universal", "type": "Crença", "emotion": "Quente (identificação, indignação)", "evidence": "YouTube: Pablo — Porque Homem Não Chora, ~99 mi views; Froid, ~3 mi", "links": [{"title": "Pablo — Porque Homem Não Chora", "url": "https://youtu.be/M3_405oMg3s", "views": "~99 mi"}, {"title": "Froid", "url": "https://youtu.be/eeidJuv3t30", "views": "~3 mi"}], "status": "ideia"}
+  ],
+  "reels": []
+}
